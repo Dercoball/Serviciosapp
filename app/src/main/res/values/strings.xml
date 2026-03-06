@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiciosApp</string>
+    <!-- Se deja sin uso: ahora se usa OSMDroid (OSM) -->
+    <string name="google_maps_key">UNUSED_WITH_OSM</string>
+</resources>
